@@ -29,7 +29,7 @@ For an embedding size of 200 and batch size 128, a single batch takes on a GTX T
 
 ### Parameter efficiency
 
-
+safasdf
 Parameters | ConvE/DistMult MRR | ConvE/DistMult Hits@10 | ConvE/DistMult Hits@1
 :--- | :---: | :---: | :---:
 ~5.0M | 0.32 / 0.24 |  0.49 / 0.42 | 0.24 / 0.16
